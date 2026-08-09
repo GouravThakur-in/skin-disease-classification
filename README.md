@@ -6,6 +6,16 @@ A deep learning project for skin lesion image classification using transfer lear
 
 [View the project on Kaggle](https://www.kaggle.com/code/tgourav311951/final-year-project)
 
+## Project Screenshots
+
+![Project Screenshot 1](image/dataset_samples.png)
+
+![Project Screenshot 2](image/confusion_matrix.png)
+
+![Project Screenshot 3](image/model_predictions.png)
+
+![Project Screenshot 4](image/roc_curve.png)
+
 ## Project Overview
 
 This project uses the HAM10000 skin lesion dataset to build an image classification model using a pretrained MobileNetV2 architecture.
